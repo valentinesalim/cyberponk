@@ -1,3 +1,5 @@
+![alt text](https://res.cloudinary.com/valentinesalim/image/upload/v1618736013/Cyberponk_ug6vgt.gif)
+
 We submitted this project to Cathacks.
 
 Devpost: https://devpost.com/software/cyberponk
