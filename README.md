@@ -1,6 +1,7 @@
 We submitted this project to Cathacks.
 
 Devpost: https://devpost.com/software/cyberponk
+
 Try the game: https://simmer.io/@valentinesalim/cyberponk
 
 ## Inspiration
