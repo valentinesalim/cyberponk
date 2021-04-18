@@ -1,17 +1,22 @@
 We submitted this project to Cathacks.
 
 Devpost: https://devpost.com/software/cyberponk
+Try the game: https://simmer.io/@valentinesalim/cyberponk
 
 ## Inspiration
 This week, our team decided to just have fun while being nostalgic building an old game, Pong is something that comes to our mind, so here we go!
 
 ## What it does
-Cyberponk is a cyberpunk-themed pong game. Our inspiration came from the theme of Cathacks this year "Cyberpunk". 
+Cyberponk is a cyberpunk-themed pong mini game. Our inspiration came from the theme of Cathacks this year "Cyberpunk". This game is local-multiplayer (2 person). 
+
+Player 1: Press W (up), S (down)
+
+Player 2: ↑ (up), ↓ (down)
 
 ![alt text](https://res.cloudinary.com/valentinesalim/image/upload/v1618733057/minigames-gif_shi5fq.gif)
 
 ## How I built it
-Primarily we used Unity to build the entire game and interactions. For visuals, we use Adobe Photoshop, Illustrator, and Canva for the animation.
+Primarily we used Unity to build the entire game and interactions. For visuals, we use Adobe Photoshop, Illustrator, and Canva for the animation. And finally we deploy this game to simmer.io
 
 ## Challenges I ran into
 It's our second time building a game from scratch by using Unity. So it takes quite a long time for us trying to figure things out from tutorials (have to admit this is not so easy at all). Red sign errors everywhere :(
